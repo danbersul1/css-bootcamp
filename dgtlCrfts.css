@@ -1,0 +1,25 @@
+nav {
+    color: grey;
+    font-size: 15px;
+    position:relative;
+    display: inline-block;
+    float: right;
+    
+    border: 2px solid black;
+}
+
+header {
+   
+
+
+}
+
+body {
+    margin:0px;
+    padding:0px;
+}
+
+.city-pic {
+    margin:0px;
+
+}
